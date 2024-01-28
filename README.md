@@ -22,6 +22,7 @@ If you use the second argument you need to specify --output_file "<path_to_file>
 ## Example usage and output
 python "C:\Dev\palplayerdump\palplayerdump.py" "C:\Users\Bonsai\Pal\Pa\Level.sav.json" --output_file "C:\Dev\palplayerdump\Example\Players.json"
 
+```
 {
     "player_uid": "8eb33572-0000-0000-0000-000000000000",
     "player_info": {
@@ -36,3 +37,4 @@ python "C:\Dev\palplayerdump\palplayerdump.py" "C:\Users\Bonsai\Pal\Pa\Level.sav
         "player_name": "trueTed"
     }
 }
+```
